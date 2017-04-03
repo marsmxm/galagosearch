@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/tools
+END
+AppTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/tools/AppTest.java
+END
+SearchWebHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/tools/SearchWebHandlerTest.java
+END
+BuildIndexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/tools/BuildIndexTest.java
+END

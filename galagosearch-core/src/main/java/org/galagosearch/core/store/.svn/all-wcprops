@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/store
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/store/package.html
+END
+DocumentIndexStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/store/DocumentIndexStore.java
+END
+NullStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/store/NullStore.java
+END
+SQLDocumentStoreWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/store/SQLDocumentStoreWriter.java
+END
+SnippetGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/store/SnippetGenerator.java
+END
+DocumentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/store/DocumentStore.java
+END
+SQLDocumentStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/store/SQLDocumentStore.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents
+END
+ScoringFunctionIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/ScoringFunctionIteratorTest.java
+END
+OrderedWindowIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/OrderedWindowIteratorTest.java
+END
+SynonymIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/SynonymIteratorTest.java
+END
+ScoreCombinationIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/ScoreCombinationIteratorTest.java
+END
+FakeExtentIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/FakeExtentIterator.java
+END
+UnorderedWindowIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/UnorderedWindowIteratorTest.java
+END
+FilteredCombinationIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/FilteredCombinationIteratorTest.java
+END
+StatisticsGathererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/StatisticsGathererTest.java
+END
+FakeScoreIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/FakeScoreIterator.java
+END
+NullExtentIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/NullExtentIteratorTest.java
+END
+UnfilteredCombinationIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/UnfilteredCombinationIteratorTest.java
+END
+ExtentArrayIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/ExtentArrayIteratorTest.java
+END
+MoveIteratorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/extents/MoveIteratorsTest.java
+END

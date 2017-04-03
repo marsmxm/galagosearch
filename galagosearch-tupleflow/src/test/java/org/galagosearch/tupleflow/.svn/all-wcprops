@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/test/java/org/galagosearch/tupleflow
+END
+OrderedCombinerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/test/java/org/galagosearch/tupleflow/OrderedCombinerTest.java
+END
+UtilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/test/java/org/galagosearch/tupleflow/UtilityTest.java
+END
+ParametersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/test/java/org/galagosearch/tupleflow/ParametersTest.java
+END
+FakeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/test/java/org/galagosearch/tupleflow/FakeType.java
+END
+VByteInputTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/test/java/org/galagosearch/tupleflow/VByteInputTest.java
+END
+VByteOutputTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/test/java/org/galagosearch/tupleflow/VByteOutputTest.java
+END
+SorterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/test/java/org/galagosearch/tupleflow/SorterTest.java
+END
+TextWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/test/java/org/galagosearch/tupleflow/TextWriterTest.java
+END

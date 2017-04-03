@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval
+END
+PositionIndexReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/PositionIndexReaderTest.java
+END
+RetrievalTestUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/RetrievalTestUtility.java
+END
+ExtentIndexReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/ExtentIndexReaderTest.java
+END
+StructuredRetrievalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/StructuredRetrievalTest.java
+END
+SparseFloatListReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/SparseFloatListReaderTest.java
+END
+QueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/QueryTest.java
+END

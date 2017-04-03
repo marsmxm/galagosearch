@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/index
+END
+BackedCompressedByteBufferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/index/BackedCompressedByteBufferTest.java
+END
+CompressedByteBufferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/index/CompressedByteBufferTest.java
+END
+IndexWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/index/IndexWriterTest.java
+END
+VocabularyWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/index/VocabularyWriterTest.java
+END

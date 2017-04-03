@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/query
+END
+NodeTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/query/NodeTypeTest.java
+END
+StructuredQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/query/StructuredQueryTest.java
+END
+SimpleQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/retrieval/query/SimpleQueryTest.java
+END

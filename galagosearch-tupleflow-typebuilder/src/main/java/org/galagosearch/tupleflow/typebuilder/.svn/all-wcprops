@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow-typebuilder/src/main/java/org/galagosearch/tupleflow/typebuilder
+END
+OrderSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow-typebuilder/src/main/java/org/galagosearch/tupleflow/typebuilder/OrderSpecification.java
+END
+TypeBuilderMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow-typebuilder/src/main/java/org/galagosearch/tupleflow/typebuilder/TypeBuilderMojo.java
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow-typebuilder/src/main/java/org/galagosearch/tupleflow/typebuilder/Direction.java
+END
+TypeSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow-typebuilder/src/main/java/org/galagosearch/tupleflow/typebuilder/TypeSpecification.java
+END
+FieldSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow-typebuilder/src/main/java/org/galagosearch/tupleflow/typebuilder/FieldSpecification.java
+END
+TemplateTypeBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow-typebuilder/src/main/java/org/galagosearch/tupleflow/typebuilder/TemplateTypeBuilder.java
+END
+ParserDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow-typebuilder/src/main/java/org/galagosearch/tupleflow/typebuilder/ParserDriver.java
+END
+OrderedFieldSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow-typebuilder/src/main/java/org/galagosearch/tupleflow/typebuilder/OrderedFieldSpecification.java
+END

@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow
+END
+XMLMinimum.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/XMLMinimum.java
+END
+ArrayInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/ArrayInput.java
+END
+ArrayOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/ArrayOutput.java
+END
+OrderedCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/OrderedCombiner.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Utility.java
+END
+TypeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/TypeReader.java
+END
+VByteInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/VByteInput.java
+END
+NullProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/NullProcessor.java
+END
+Linkage.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Linkage.java
+END
+Step.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Step.java
+END
+StreamCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/StreamCreator.java
+END
+Sorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Sorter.java
+END
+Select.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Select.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Type.java
+END
+ReaderSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/ReaderSource.java
+END
+DataStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/DataStream.java
+END
+BufferedFileDataStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/BufferedFileDataStream.java
+END
+Delta.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Delta.java
+END
+Multi.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Multi.java
+END
+FakeParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/FakeParameters.java
+END
+NullSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/NullSource.java
+END
+StandardStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/StandardStep.java
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Source.java
+END
+FileSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/FileSource.java
+END
+ExNihiloSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/ExNihiloSource.java
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Parameters.java
+END
+TupleFlowParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/TupleFlowParameters.java
+END
+Unique.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Unique.java
+END
+Splitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Splitter.java
+END
+OrderedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/OrderedReader.java
+END
+FileOrderedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/FileOrderedReader.java
+END
+VByteOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/VByteOutput.java
+END
+StreamCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/StreamCombiner.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Order.java
+END
+MemoryDataStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/MemoryDataStream.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Counter.java
+END
+Processor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Processor.java
+END
+TextWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/TextWriter.java
+END
+FileOrderedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/FileOrderedWriter.java
+END
+OrderedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/OrderedWriter.java
+END
+InputClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/InputClass.java
+END
+IncompatibleProcessorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/IncompatibleProcessorException.java
+END
+OutputClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/OutputClass.java
+END
+SequentialCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/SequentialCombiner.java
+END
+Reducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-tupleflow/src/main/java/org/galagosearch/tupleflow/Reducer.java
+END

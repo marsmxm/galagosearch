@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/util
+END
+IntArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/util/IntArray.java
+END
+FloatArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/util/FloatArray.java
+END
+ExtentArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/util/ExtentArray.java
+END

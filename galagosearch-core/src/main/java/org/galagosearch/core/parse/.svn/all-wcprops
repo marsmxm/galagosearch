@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse
+END
+DateExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DateExtractor.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/Tag.java
+END
+LinkCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/LinkCombiner.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/Document.java
+END
+TrecTextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/TrecTextParser.java
+END
+ArcParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/ArcParser.java
+END
+DocumentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DocumentFilter.java
+END
+DocumentLinkData.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DocumentLinkData.java
+END
+PostingsPositionExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/PostingsPositionExtractor.java
+END
+DocumentIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DocumentIndexReader.java
+END
+LinkExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/LinkExtractor.java
+END
+ExtentsNumberer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/ExtentsNumberer.java
+END
+PositionPostingsNumberer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/PositionPostingsNumberer.java
+END
+FileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/FileParser.java
+END
+ExtentExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/ExtentExtractor.java
+END
+DocumentIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DocumentIndexWriter.java
+END
+DocumentStreamParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DocumentStreamParser.java
+END
+PriorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/PriorParser.java
+END
+TrecWebParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/TrecWebParser.java
+END
+DocumentDataNumberer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DocumentDataNumberer.java
+END
+WordCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/WordCounter.java
+END
+FieldConflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/FieldConflater.java
+END
+WordFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/WordFilter.java
+END
+IndexReaderSplitParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/IndexReaderSplitParser.java
+END
+UniversalParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/UniversalParser.java
+END
+StringPooler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/StringPooler.java
+END
+Porter2Stemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/Porter2Stemmer.java
+END
+AdditionalTextCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/AdditionalTextCombiner.java
+END
+CollectionLengthCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/CollectionLengthCounter.java
+END
+WordCountReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/WordCountReducer.java
+END
+AnchorTextDocumentCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/AnchorTextDocumentCreator.java
+END
+DocumentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DocumentSource.java
+END
+AnchorTextCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/AnchorTextCreator.java
+END
+DocumentToKeyValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DocumentToKeyValuePair.java
+END
+KeyValuePairToDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/KeyValuePairToDocument.java
+END
+DocumentDataExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/DocumentDataExtractor.java
+END
+TagTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/TagTokenizer.java
+END
+Extent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/parse/Extent.java
+END

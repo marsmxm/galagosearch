@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index
+END
+StructuredIndexPartReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/StructuredIndexPartReader.java
+END
+BackedCompressedByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/BackedCompressedByteBuffer.java
+END
+SparseFloatListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/SparseFloatListWriter.java
+END
+DocumentNameWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/DocumentNameWriter.java
+END
+PositionIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/PositionIndexReader.java
+END
+PositionalByteStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/PositionalByteStream.java
+END
+IndexElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/IndexElement.java
+END
+ExtentIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/ExtentIndexReader.java
+END
+CompressedByteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/CompressedByteBuffer.java
+END
+DocumentLengthsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/DocumentLengthsReader.java
+END
+GenericElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/GenericElement.java
+END
+ExtentValueIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/ExtentValueIndexWriter.java
+END
+PositionIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/PositionIndexWriter.java
+END
+IndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/IndexReader.java
+END
+VocabularyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/VocabularyReader.java
+END
+ExtentIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/ExtentIndexWriter.java
+END
+StructuredIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/StructuredIndex.java
+END
+ExtentListBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/ExtentListBuffer.java
+END
+DocumentTransformationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/DocumentTransformationFactory.java
+END
+DocumentLengthsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/DocumentLengthsWriter.java
+END
+SparseFloatListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/SparseFloatListReader.java
+END
+DocumentNameReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/DocumentNameReader.java
+END
+ManifestWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/ManifestWriter.java
+END
+VocabularyWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/VocabularyWriter.java
+END
+IndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/index/IndexWriter.java
+END

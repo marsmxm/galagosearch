@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext
+END
+portugueseStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/portugueseStemmer.java
+END
+romanianStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/romanianStemmer.java
+END
+spanishStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/spanishStemmer.java
+END
+frenchStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/frenchStemmer.java
+END
+danishStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/danishStemmer.java
+END
+swedishStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/swedishStemmer.java
+END
+dutchStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/dutchStemmer.java
+END
+germanStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/germanStemmer.java
+END
+porterStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/porterStemmer.java
+END
+hungarianStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/hungarianStemmer.java
+END
+italianStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/italianStemmer.java
+END
+russianStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/russianStemmer.java
+END
+norwegianStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/norwegianStemmer.java
+END
+turkishStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/turkishStemmer.java
+END
+englishStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/englishStemmer.java
+END
+finnishStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/tartarus/snowball/ext/finnishStemmer.java
+END

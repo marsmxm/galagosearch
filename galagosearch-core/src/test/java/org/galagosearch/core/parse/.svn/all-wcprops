@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse
+END
+TagTokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse/TagTokenizerTest.java
+END
+TrecWebParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse/TrecWebParserTest.java
+END
+WordCounterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse/WordCounterTest.java
+END
+TagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse/TagTest.java
+END
+DocumentSourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse/DocumentSourceTest.java
+END
+TrecTextParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse/TrecTextParserTest.java
+END
+KeyValuePairToDocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse/KeyValuePairToDocumentTest.java
+END
+IndexReaderSplitParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse/IndexReaderSplitParserTest.java
+END
+DocumentToKeyValuePairTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/parse/DocumentToKeyValuePairTest.java
+END

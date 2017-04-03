@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype
+END
+NumberedLink.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/NumberedLink.galagotype
+END
+DocumentProbability.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentProbability.galagotype
+END
+IdentifiedLink.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/IdentifiedLink.galagotype
+END
+WordOffset.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/WordOffset.galagotype
+END
+WordCount.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/WordCount.galagotype
+END
+DocumentLengthWordCount.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentLengthWordCount.galagotype
+END
+NumberWordProbability.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/NumberWordProbability.galagotype
+END
+NumberedExtent.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/NumberedExtent.galagotype
+END
+DocumentSplit.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentSplit.galagotype
+END
+NumberedDocumentData.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/NumberedDocumentData.galagotype
+END
+DocumentFeature.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentFeature.galagotype
+END
+NumberedValuedExtent.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/NumberedValuedExtent.galagotype
+END
+DocumentWordPosition.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentWordPosition.galagotype
+END
+DocumentNumberWordInteger.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentNumberWordInteger.galagotype
+END
+ExtractedLink.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/ExtractedLink.galagotype
+END
+KeyValuePair.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/KeyValuePair.galagotype
+END
+DocumentExtent.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentExtent.galagotype
+END
+DocumentValuedExtent.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentValuedExtent.galagotype
+END
+DocumentData.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentData.galagotype
+END
+NumberWordPosition.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/NumberWordPosition.galagotype
+END
+DocumentWordProbability.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/DocumentWordProbability.galagotype
+END
+WordProbability.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/WordProbability.galagotype
+END
+AdditionalDocumentText.galagotype
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/galagotype/AdditionalDocumentText.galagotype
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/scoring
+END
+DistributionSmoother.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/scoring/DistributionSmoother.java
+END
+LinearWeighting.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/scoring/LinearWeighting.java
+END
+DirichletScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/scoring/DirichletScorer.java
+END
+DirichletSmoother.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/scoring/DirichletSmoother.java
+END
+DistributionSmootherFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/scoring/DistributionSmootherFactory.java
+END
+LinearSmoother.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/470/trunk/galagosearch-core/src/main/java/org/galagosearch/core/scoring/LinearSmoother.java
+END

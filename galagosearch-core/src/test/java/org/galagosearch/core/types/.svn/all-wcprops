@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/types
+END
+DocumentLengthOrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/types/DocumentLengthOrderTest.java
+END
+DocumentLengthWordCountTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/470/trunk/galagosearch-core/src/test/java/org/galagosearch/core/types/DocumentLengthWordCountTest.java
+END
